@@ -190,8 +190,8 @@ p.note { display: none; }
 
    
 <br><br>
-<h2><span class="yellow">今日のBGMは A Letter You Never Sent | Soft Romantic Ballads for Quiet Hearts</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0uxZwkiX_A?si=0FQBJHgxTDxntXZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">今日のBGMは As 30 Melhores Musicas Internacionais 2025 🟢 Top Hit 2025 Playlist 🟢 Sad Love Songs</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xGCDBkUDnM?si=0qSPB6wpGr7jhocV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
